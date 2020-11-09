@@ -7,3 +7,8 @@ A second function of an operating system is the user interface.
 the pourpose of the user interface is to take input from the user and to display output in a way the user can use
 The user interface is usually either a graphical user interface with icons menus and graphics,
 or a text based comand line interface.
+
+A third function of an operating system is memory managment.
+memory managment organizes the allocation and use of memormy between programs running on the computer.
+memory managment also moves information back in forth between the main memory and the disk when it needs to be used.
+memory managment keeps track up all memory locations used or unused and updates and reallocates availible memory as needed.
