@@ -2,3 +2,8 @@ One important function of an operating system is device managment.
 An operating systems keeps track of and comunicates with all devices connected to the computer such as input / output devices and storage devices.
 operating systems manage devices using drivers and device controllers.
 the operating system allocates the use of the devices for all  of the difernt processes running on the computer.
+
+A second function of an operating system is the user interface.
+the pourpose of the user interface is to take input from the user and to display output in a way the user can use
+The user interface is usually either a graphical user interface with icons menus and graphics,
+or a text based comand line interface.
